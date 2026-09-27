@@ -1,0 +1,16 @@
+Subject_ID,Site_ID,Raw_AE_Description,Assigned_MedDRA_Term,MedDRA_Code,Coding_Status
+SUB-101,101,severe head ache and dizzy,Headache,10019211,Auto-Coded
+SUB-102,101,throwin up after medication,Abdominal pain,10000081,Auto-Coded
+SUB-103,102,high fevor and chills,Headache,10019211,Auto-Coded
+SUB-104,102,pain in stomach region,Insomnia,10022437,Auto-Coded
+SUB-105,103,skin rash all over chest,Headache,10019211,Auto-Coded
+SUB-106,103,feeling very tired and sleepy,UNRESOLVED - NEEDS MANUAL REVIEW,N/A,Query Raised / Uncoded
+SUB-107,104,mild nausea in morning,Nausea,10028813,Auto-Coded
+SUB-108,104,bad coughing and cold,Abdominal pain,10000081,Auto-Coded
+SUB-109,105,joint pain in knees,Abdominal pain,10000081,Auto-Coded
+SUB-110,105,cant sleep at night insomnia,Insomnia,10022437,Auto-Coded
+SUB-111,106,throbbing headache behind eyes,Headache,10019211,Auto-Coded
+SUB-112,106,stomach ache after eating,Vomiting,10047700,Auto-Coded
+SUB-113,107,elevated temp and fever,Headache,10019211,Auto-Coded
+SUB-114,107,dizziness upon standing,Dizziness,10013573,Auto-Coded
+SUB-115,108,unidentified patient complaint,Abdominal pain,10000081,Auto-Coded
